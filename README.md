@@ -47,6 +47,7 @@ Ubuntu 20.04
 ROS Noetic (or any compatible version)
 
 OpenCV (for target recognition)
+
 ### Hardware
 Turtlebot3 Burger Robot
 ![Turtlebot3 Burger Robot](https://media.elektor.de/media/catalog/product/cache/9cc822bfc6a57f9729d464b8b5e0e0df/r/o/robotis-turtlebot3-burger-incl.raspberry-pi-4-2gb.jpg)
